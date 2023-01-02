@@ -1,11 +1,11 @@
 ---
 author: FaidonTsetsis
-title: Apollo DN330 Touchpad
+title: Apollo DN330
 year: 1982
-image_url: /images/apollo-dn330-touchpad.jpg
-caption: 'Φωτογραφία από τον υπολογιστή Apollo DN330 με ενσωματωμένο toucpad στο πληκτρολόγιο.'
-license_url: 'https://www.youtube.com/watch?v=nw8SmosJvBE'
-license_text: free-license
+image_url: /images/apollo-touchpad.jpg
+caption: 'Το Apollo DN330 Touchpad αντιπροσωπεύει μία εναλλακτική μορφή ποντικιού, το touchpad, το οποίο ήταν ενσωματωμένο πάνω στο πληκτρολόγιο. Το υπολογιστικό σύστημα Apollo ήταν το πρώτο που υιοθέτησε τη τεχνολογία του touchpad, για της οποίας ο έλεγχος του κέρσορα γινόταν με τη χρήση των δαχτύλων του χρήστη πάνω στην επιφάνεια αφής και έπειτα πραγματοποιούταν σάρωση των συντεταγμένων από τις κινήσεις που καταχωρούταν από τα δάχτυλα του χρήστη. Αυτή η ιδέα ήταν ο πατέρας της αλληλεπίδρασης του χρήστη με τον υπολογιστή μέσω απευθείας επαφής, δίνοντας μία πιο φυσική αίσθηση στη διεπαφή του ανθρώπου με τον υπολογιστή. Η τεχνολογία αυτή αργότερα καθιερώθηκε για κάθε φορητό υπολογιστή.'
+license_url: 'https://commons.wikimedia.org/wiki/File:Dn330.jpg'
+license_text: wikimedia
 categories:
   - forms
 tags:
